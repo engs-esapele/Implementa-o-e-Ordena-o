@@ -4,7 +4,7 @@ using namespace std;
 
 int main() { 
 
-    int v[] = {4, 7, 9, 2, 1}; // Cria o vetor
+    int v[] = {5, 3, 8, 1, 2}; // Cria o vetor
     int n = 5; // Armazena a quantidade de elementos do vetor.
 
     int comparacoes = 0; // Conta as comparações
